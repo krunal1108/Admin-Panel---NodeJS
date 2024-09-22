@@ -1,5 +1,5 @@
-PROJECT OVERVIEW:
-
+**PROJECT OVERVIEW:
+**
 This project aims to build an admin panel that allows users to register, sign in, and manage their profiles. After login, the user will be directed to a dashboard displaying a welcome message with their name. The admin panel will also include a profile page where users can view their personal details.
 
 
@@ -90,7 +90,7 @@ OUTPUT:
 3.LOGIN
 
 
-![sign up](https://github.com/user-attachments/assets/f489e28e-3b82-48f7-930b-2d1d976656fc)
+![login](https://github.com/user-attachments/assets/cb82ac03-3266-442b-8665-9d726dc1812c)
 
 
 
