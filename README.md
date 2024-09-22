@@ -1,12 +1,19 @@
 **PROJECT OVERVIEW:
 **
+
+
+
+
 This project aims to build an admin panel that allows users to register, sign in, and manage their profiles. After login, the user will be directed to a dashboard displaying a welcome message with their name. The admin panel will also include a profile page where users can view their personal details.
 
 
 
 
 
-TECHNOLOGIES USED:
+**TECHNOLOGIES USED:
+**
+
+
 
 
 
@@ -35,7 +42,10 @@ Bcrypt.js: For password encryption
 
 
 
-FEATURES:
+**FEATURES:
+**
+
+
 
 
 
@@ -69,7 +79,9 @@ OUTPUT:
 
 
 
-1.ADMIN PANEL
+**1.ADMIN PANEL
+**
+
 
 
 ![admin panel](https://github.com/user-attachments/assets/36a92501-733d-4cb6-9f19-646ac26c300a)
@@ -78,7 +90,9 @@ OUTPUT:
 
 
 
-2.SIGN UP(REGISTER)
+**2.SIGN UP(REGISTER)
+**
+
 
 
 ![sign up](https://github.com/user-attachments/assets/2eca5c7b-14d1-42f7-8e8f-1950b1059918)
@@ -87,7 +101,9 @@ OUTPUT:
 
 
 
-3.LOGIN
+**3.LOGIN
+**
+
 
 
 ![login](https://github.com/user-attachments/assets/cb82ac03-3266-442b-8665-9d726dc1812c)
@@ -96,7 +112,9 @@ OUTPUT:
 
 
 
-4.USER PROFILE
+**4.USER PROFILE
+**
+
 
 
 ![user profile](https://github.com/user-attachments/assets/955c1498-b019-449b-8e81-aacaa5614a72)
