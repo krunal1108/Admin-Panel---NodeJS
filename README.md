@@ -73,3 +73,33 @@ OUTPUT:
 
 
 ![admin panel](https://github.com/user-attachments/assets/36a92501-733d-4cb6-9f19-646ac26c300a)
+
+
+
+
+
+2.SIGN UP(REGISTER)
+
+
+![sign up](https://github.com/user-attachments/assets/2eca5c7b-14d1-42f7-8e8f-1950b1059918)
+
+
+
+
+
+3.LOGIN
+
+
+![sign up](https://github.com/user-attachments/assets/f489e28e-3b82-48f7-930b-2d1d976656fc)
+
+
+
+
+
+4.USER PROFILE
+
+
+![user profile](https://github.com/user-attachments/assets/955c1498-b019-449b-8e81-aacaa5614a72)
+
+
+
