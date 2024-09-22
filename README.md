@@ -67,3 +67,9 @@ MongoDB as the database for storing user information
 OUTPUT:
 
 
+
+
+1.ADMIN PANEL
+
+
+![admin panel](https://github.com/user-attachments/assets/36a92501-733d-4cb6-9f19-646ac26c300a)
